@@ -1,0 +1,4 @@
+templates/file/*
+templates/img/*
+seminar/templates/
+application/config/*
